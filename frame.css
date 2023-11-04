@@ -1,0 +1,151 @@
+.final-logo-icon2 {
+    position: relative;
+    width: 38px;
+    height: 38px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .acciojob {
+    position: relative;
+    letter-spacing: -0.04em;
+    line-height: 38px;
+    font-weight: 600;
+  }
+  .final-logo-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 3.98px;
+  }
+  .logo-child {
+    position: relative;
+    border-right: 1px solid #dadada;
+    box-sizing: border-box;
+    width: 1px;
+    height: 33px;
+  }
+  .nsdc-logo-in-clear-background-icon {
+    position: relative;
+    width: 77px;
+    height: 35px;
+    object-fit: cover;
+  }
+  .logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-3xs);
+  }
+  .arrow-icon1 {
+    position: relative;
+    width: 18px;
+    height: 18px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .courses-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-3xs);
+    gap: var(--gap-5xs);
+  }
+  .acciojob-reviews {
+    position: relative;
+    letter-spacing: 0.01em;
+    line-height: 155%;
+  }
+  .arrow-icon2 {
+    position: relative;
+    width: 18px;
+    height: 18px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: none;
+  }
+  .frame-parent108 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: var(--gap-3xs);
+  }
+  .login {
+    position: relative;
+  }
+  .login-wrapper {
+    border-radius: var(--br-5xs);
+    border: 2px solid var(--primary-sky-blue);
+    overflow: hidden;
+    justify-content: center;
+    padding: var(--padding-mini) var(--padding-17xl);
+    font-size: var(--font-size-sm);
+    color: var(--primary-sky-blue);
+    font-family: var(--font-abeezee);
+  }
+  .cta-links,
+  .login-wrapper,
+  .main {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .cta-links {
+    justify-content: flex-start;
+    gap: var(--gap-9xl);
+    font-size: var(--font-size-base);
+    color: var(--gray-2);
+    font-family: var(--font-font);
+  }
+  .main {
+    background-color: var(--white);
+    width: 1440px;
+    justify-content: space-between;
+    padding: var(--padding-mini) var(--padding-89xl);
+    box-sizing: border-box;
+  }
+  .span1 {
+    font-family: var(--font-font);
+  }
+  .next-batch-starts-container {
+    position: relative;
+    letter-spacing: 0.02em;
+    line-height: 150%;
+  }
+  .announcement,
+  .frame2,
+  .new-nav-bar {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .announcement {
+    background-color: var(--primary-sky-blue);
+    width: 1440px;
+    flex-direction: row;
+    padding: var(--padding-5xs) 562px;
+    box-sizing: border-box;
+    font-size: var(--font-size-sm);
+    color: var(--white);
+    font-family: var(--font-abeezee);
+  }
+  .frame2,
+  .new-nav-bar {
+    flex-direction: column;
+  }
+  .new-nav-bar {
+    box-shadow: 0 2px 40px rgba(0, 0, 0, 0.12);
+    text-align: left;
+    font-size: 21.71px;
+    color: var(--primary-navy-blue);
+    font-family: var(--font-bai-jamjuree);
+  }
+  .frame2 {
+    text-decoration: none;
+    position: relative;
+    width: 100%;
+  }
+  

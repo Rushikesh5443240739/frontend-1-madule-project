@@ -1,0 +1,51 @@
+<svg width="19" height="19" viewBox="0 0 19 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="19" height="19" fill="#1E1E1E"/>
+<g id="Landing">
+<g id="1. Hero Section" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="783" transform="translate(-777 -29)" fill="white"/>
+<g id="CTA Form">
+<g id="Shadow Gradient" filter="url(#filter0_f_0_1)">
+</g>
+</g>
+</g>
+</g>
+<g id="Frame">
+<g id="New Nav Bar" filter="url(#filter1_d_0_1)">
+<g id="Main">
+<rect width="1439.98" height="77" transform="translate(-777 -29)" fill="white"/>
+<g id="CTA &#38; Links">
+<g id="Frame 1000001688">
+<g id="Frame 1000001682">
+<g id="Arrow" clip-path="url(#clip1_0_1)">
+<path id="Vector" d="M9.98115 10.379L13.6937 6.6665L14.7542 7.727L9.98115 12.5L5.20815 7.727L6.26865 6.6665L9.98115 10.379Z" fill="#4F4F4F"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_0_1" x="-22.2035" y="-20" width="777.544" height="843.859" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="80" result="effect1_foregroundBlur_0_1"/>
+</filter>
+<filter id="filter1_d_0_1" x="-817" y="-67" width="1520" height="194" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="20"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="783" fill="white" transform="translate(-777 -29)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="18" height="18" fill="white" transform="matrix(0 1 -1 0 18.9807 0.5)"/>
+</clipPath>
+</defs>
+</svg>
